@@ -1,0 +1,13 @@
+---
+title: "newproject.Rmarkdown"
+author: "XSM"
+date: "20 de septiembre de 2018"
+output: html_document
+---
+
+I am going to make a plot
+
+```{r}
+plot(iris$Sepal.Length, iris$Sepal.Width)
+```
+
